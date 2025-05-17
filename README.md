@@ -68,7 +68,7 @@
 ---
 
 
-### 🎶 Currently Playing on Spotify
+### 🎶 What's Playing on Spotify
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ddpzhqix29zajgzjc8wai3tv4&redirect=true">
