@@ -14,7 +14,7 @@
 - 📧 Reach me out at **sarinsanyal2005@gmail.com**
 - 🔭 Currently exploring **Web Development** and contributing to **Open Source**
 - 🧠 Learning about **Machine Learning**, **Deep Learning** and **Gen AI**
-- 🥇 Contributor @ GSSoC & Hacktoberfest 2024
+- 🥇 Contributor @ **GSSoC** & **Hacktoberfest 2024**
 - 🌐 Building projects using **Next.js, Typescript and MongoDB**
 - 💻 Member of the **Tech Team** at **IEEE JUSB**
 
