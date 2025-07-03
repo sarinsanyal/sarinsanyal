@@ -17,6 +17,16 @@
 - 🥇 Contributor @ **GSSoC** & **Hacktoberfest 2024**
 - 🌐 Building projects using **Next.js, Typescript and MongoDB**
 - 💻 Member of the **Tech Team** at **IEEE JUSB**
+- 🧑‍💼 **Coordinator** at **JU E-Cell** 
+
+---
+
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarinsanyal/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sarinsanyal)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/sarinsanyal)
 
 ---
 
@@ -59,13 +69,6 @@
 
 ---
 
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarinsanyal/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sarinsanyal)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/sarinsanyal)
-
----
 
 
 
