@@ -68,13 +68,7 @@
 ---
 
 
-### 🎶 What's Playing on my Spotify
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ddpzhqix29zajgzjc8wai3tv4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ddpzhqix29zajgzjc8wai3tv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
-  </a>
-</p>
 
 
 
