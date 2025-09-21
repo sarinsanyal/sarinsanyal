@@ -11,6 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarinsanyal&color=blueviolet)
 - 🎓 I'm currently pursuing **B.E. in Power Engineering** at **Jadavpur University**
+- 🏢 Working as an SDE Intern at **Souloxy**
 - 📧 Reach me out at **sarinsanyal2005@gmail.com**
 - 🔭 Currently exploring **Web Development** and contributing to **Open Source**
 - 🧠 Learning about **Machine Learning**, **Deep Learning** and **Gen AI**
