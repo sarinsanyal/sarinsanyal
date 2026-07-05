@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarin Sanyal</h1>
+<img width="1162" height="788" alt="image" src="https://github.com/user-attachments/assets/aabac93c-6b9d-4a0d-ad29-32def4002c70" /><h1 align="center">Hi 👋, I'm Sarin Sanyal</h1>
 <h3 align="center"> Open Source | Web Development | Data Science, ML, DL and Agentic AI | Power Engineering student </h3>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarinsanyal&color=blueviolet)
 - 🎓 I'm currently pursuing **B.E. in Power Engineering** at **Jadavpur University**
-- 🏢 Working as an SDE Intern at **Souloxy**
+- 👨🏻‍💻 Former Intern at **Souloxy**
 - 📧 Reach me out at **sarinsanyal2005@gmail.com**
-- 🔭 Currently exploring **Web Development** and contributing to **Open Source**
-- 🧠 Learning about **Machine Learning**, **Deep Learning** and **Gen AI**
+- 🔭 Currently exploring **AI Engineering** and contributing to **Computer Vision**
+- 🧠 Learning about **RAG**, **LLMs** and **Gen AI**
 - 🥇 Contributor @ **GSSoC** & **Hacktoberfest 2024**
 - 🌐 Building projects using **Next.js, Typescript and MongoDB**
-- 💻 Member of the **Tech Team** at **IEEE JUSB**
-- 🧑‍💼 **Coordinator** at **JU E-Cell** 
+- 💻 **Tech Lead** at **IEEE JUSB**
+- 🧑‍💼 **Core Member** at **JU E-Cell** 
 
 ---
 
