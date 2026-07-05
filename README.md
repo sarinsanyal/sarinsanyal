@@ -1,5 +1,5 @@
-<img width="1162" height="788" alt="image" src="https://github.com/user-attachments/assets/aabac93c-6b9d-4a0d-ad29-32def4002c70" /><h1 align="center">Hi 👋, I'm Sarin Sanyal</h1>
-<h3 align="center"> Open Source | Web Development | Data Science, ML, DL and Agentic AI | Power Engineering student </h3>
+<h1 align="center">Hi 👋, I'm Sarin Sanyal</h1>
+<h3 align="center"> Open Source | Web Development | Data Science, ML, DL and Agentic AI | Power Engineering Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development;Open+Source+Contributor;Machine+Learning+Enthusiast;Power+Engineering+@+JU+'28+Batch;%F0%9F%8E%B9&center=true&width=500&height=30">
